@@ -1,2 +1,2 @@
 # WeatherPrediction_ML_Model
-Machine learning has transformed weather prediction by efficiently analyzing vast datasets, identifying patterns, and uncovering subtle correlations in historical and real-time weather data. This technology enhances accuracy, enabling early warnings for extreme events like hurricanes. 
+Machine learning has transformed weather prediction by efficiently analyzing vast datasets, identifying patterns, and uncovering subtle correlations in historical and real-time weather data. This technology enhances accuracy, enabling early warnings for extreme events like hurricanes.This is a simple beginner level machine learning project to predict only two outputs,or weather conditions that is whether it is a rainy day or sunny day. 
